@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charulatha K</h1>
-<h3 align="center">Final year B.Tech IT student @SRM University</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/charulatha-k-106229211/**
 
