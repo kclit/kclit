@@ -1,12 +1,35 @@
-<h1 align="center">Hi 👋, I'm Charulatha K</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+# 👋 Hi, I'm Charulatha K
 
-- 📫 How to reach me **https://www.linkedin.com/in/charulatha-k-106229211/**
+🎓 B.Tech in IT (2024) | Working as a Project Manager|💡 Aspiring Data Analyst  
+📍 Chennai, India | Open to internships, full-time, and freelance gigs  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/charulatha-k-106229211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charulatha-k-106229211/" height="30" width="40" /></a>
-</p>
+I’m passionate about using **data to tell stories** and drive decisions. From building interactive dashboards to working with Python for analytics and automation, I enjoy solving real-world problems with data.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🔧 Skills & Tools
+
+**Languages & Tools**:  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+
+---
+
+## 💼 Certifications
+
+- 🟢 IBM Data Analyst Professional Certificate  
+- 🟢 Simplilearn Business Analytics with Excel  
+- 🟢 HackerRank SQL (Intermediate)  
+- 🟢 Cisco Python Essentials
+
+---
+
+## 📬 Connect with Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/charulatha17/)  
+
+---
+📌 *Currently open to data analyst internships, entry-level roles & freelance opportunities.*
