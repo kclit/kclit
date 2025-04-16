@@ -31,5 +31,8 @@ I’m passionate about using **data to tell stories** and drive decisions. From 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/charulatha17/)  
 
+Check out my latest blog:
+➡️ (https://medium.com/@kclit1711)
+
 ---
 📌 *Currently open to data analyst internships, entry-level roles & freelance opportunities.*
